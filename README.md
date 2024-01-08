@@ -6,7 +6,7 @@ Computer Science student at Chulalongkorn University.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nonthpawit@gmail.com](mailto:nonthpawit@gmail.com)
-* 🧠  I'm learning javascript
+* 🧠  I'm learning java
 
 ### Skills
 
